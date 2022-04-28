@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinod Kumar
-- 👀 I’m interested in Data Analyst jobs
-- 🌱 I’m currently learning data processing
+- 👀 I’m interested in Data Analysis
+- 🌱 Course -  Google Data Analytics Professional Certificate on Coursera
 
 
 <!---
